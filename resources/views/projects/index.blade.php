@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Projects</title>
+    <title>Task</title>
     <style>
         * {
             box-sizing: border-box;
@@ -26,8 +26,8 @@
             border-radius: 12px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.1);    
             display: flex;
-    flex-direction: column;
-    align-items: center;
+            flex-direction: column;
+            align-items: center;
         }
 
         input[type="text"] {
